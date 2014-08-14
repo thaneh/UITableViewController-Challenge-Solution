@@ -1,5 +1,5 @@
 //
-//  C4ViewController.h
+//  C4TableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Thane Heninger on 8/14/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface C4ViewController : UIViewController
+@interface C4TableViewController : UITableViewController
 
 @end
